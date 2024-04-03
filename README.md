@@ -6,7 +6,7 @@ Welcome to GIFMaster.
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/ScienceGear/GIFMaster.git
+   git clone https://github.com/Anim-Discord.git
    ```
 
 2. **Navigate to the Directory:**
